@@ -1,4 +1,5 @@
 # vyriyang-poetry-generator
+<<<<<<< HEAD
 
 Project inspiration: The Flowers of Evil-Charles Baudelaire
 
@@ -11,3 +12,6 @@ The following are the basic steps to approach
 * Re-generate the category 
 *
 *
+=======
+Poetry Generator
+>>>>>>> f94105179957223a45d0819e76d8c1a5215d2dda
