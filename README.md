@@ -10,3 +10,4 @@ The following are the basic steps to approach
 * First classify the the vocabularis into category
 * Re-generate the category 
 *
+*
