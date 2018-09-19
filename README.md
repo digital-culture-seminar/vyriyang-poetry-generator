@@ -21,7 +21,7 @@ The following are the basic steps to approach
 >
 > Use random function select viable function
 
-> Try next - Add recursion loop to generate the length of the
+> Try next - Add recursion loop to generate the length of the poem
 >
 > Try next - Introduce argument, local variable, parameter
 
