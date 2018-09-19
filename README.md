@@ -28,6 +28,8 @@ The following are the basic steps to approach
 * Finally generate Semi-quantitative Baudelaire's propinquity poetry 
 
 
+
+
 The following are the next setp of the challenge to approach
 * Easy - Structure selection
 * Middle - Let the user answer specific question, control random vocabularis fuction
