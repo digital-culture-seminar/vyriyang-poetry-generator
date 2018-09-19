@@ -11,7 +11,7 @@ The following are the basic steps to approach
 > Re-generate the category giving the generator multiple choice
 >
 > Set up the random vocabularis fuction
->
+
 > Try next - Random tense, voice, singular and plural
 
 * Second set up the function of the form
@@ -20,7 +20,7 @@ The following are the basic steps to approach
 > Call viable function
 >
 > Use random function select viable function
->
+
 > Try next - Add recursion loop to generate the length of the
 >
 > Try next - Introduce argument, local variable, parameter
