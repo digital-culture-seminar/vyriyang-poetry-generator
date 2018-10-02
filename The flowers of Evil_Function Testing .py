@@ -548,7 +548,7 @@ of {basicNoun}".format(verbing=verbing.capitalize(),
         bodypartA = random.choice(bodypartAs)
         adjNoun = random.choice(adjNouns)
         str = "To {verb} of my {allBodypart}, my \
-        {bodypartA}'s {adjNoun}".format(verb=verb,allBodypart=allBodypart,
+{bodypartA}'s {adjNoun}".format(verb=verb,allBodypart=allBodypart,
         bodypartA=bodypartA, adjNoun=adjNoun)
         return(str)
         
