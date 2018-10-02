@@ -1,8 +1,15 @@
 # vyriyang-poetry-generator
 
+When Bohemians became a revealing metaphor context, Baudelaire mixed women and death in a third imagery to narrative the city of Paris. Poetry deconstructed language, which magnifies the metaphor and atmosphere infinitely.
+
+In The Poetry Generator, I'm aiming to generate propinquity Baudelaire's poetry though a semi-quantitative prediction of the options of the random subjects and inheritable elements. I base on the elements showed in The Flowers of Evil developed a quantitative framework to let the program transfer the influence of emotional factors in random poem generating. Through the loop inheritance of functions, the program constructs a similar random poetry with unified emotions. However, the correspondence of imagery and metaphor is random, which means that the meaning is infinitely possible. Completing the illusion of our poets' dream by borrowing this process of exploring unpredictable vague fables.
+
+
+---
+
 Project inspiration: The Flowers of Evil-Charles Baudelaire
 
-Project achievement: Using python to generate Semi-quantitative Baudelaire's propinquity poetry 
+Project achievement: Using python to generate Semi-quantitative propinquity Baudelaire's poetry 
 
 ---
 
