@@ -6,27 +6,34 @@ Created on Thu Sep 13 22:35:42 2018
 @author: Vyri
 """
 
+
 import random
 
 # list of nouns
-basicNouns = ["muse","monk"]
-positiveNouns = ["death"]
-negativeNouns = ["birth"]
+basicNouns = ["muse","monk","vampire","jewels","log","crowd"]
+basicObjectives = ["log","glass","vaults","censer"]
+basicObjectiveAs = ["altar","amusement"]
+positiveNouns = ["birth"]
+negativeNouns = ["death","poison"]
 
-pronouns = ["I","he","she","it"]
-
+pronouns = ["I","we","they","you","he","she","it"]
+pronoun1s = ["my","our","their","your","his","her","its"]
+pronoun2s = ["me","us","them","you","him","she","it"]
 
 # list of verbs
-verbs = ["love","fling",""]
+verbs = ["love","fling","flash","slip","glean","chant"]
+negativeVerbs = ["slip"]
+
+verbings = ["swing"]
 
 # list of adjectives
-adjectives = ["spiritual"]
+adjectives = ["spiritual","misty","meager","vulgar"]
 
 # list of positiveAdjectives
-positiveAdjectives = ["gold","warm",]
+positiveAdjectives = ["gold","warm"]
 
 # list of negativeAdjectives
-negativeAdjectives = ["venal",]
+negativeAdjectives = ["venal"]
 
 # list of adverbs
 adverbs = ["former"]
@@ -35,12 +42,17 @@ adverbs = ["former"]
 positiveAdverbs = ["cheerful"]
 
 # list of negativeAdverbs
-negativeAdverbs = ["sick","venal","wretched",]
+negativeAdverbs = ["sick","venal","wretched","bored"]
+
+# list of orientationPreposition
+orientationPrepositions = ["outside","inside"]
+prepositionNouns = ["inner","outer"]
+
 
 # list of color
 warmColors = ["red","purple",""]
 coldColors = ["blue","green",]
-cheerfulColors = [""]
+cheerfulColors = ["azure"]
 sadColors = ["gray"]
 
 
@@ -64,25 +76,28 @@ seasons = ["spring","summer","autumn","winter"]
 humans = ["man","woman","child","men","womem","children"]
 
 # list of bodypart
-bodyparts = ["head","neck","shoulders","arm","wrist","hand"]
+bodyparts = ["head","neck","shoulders","wrist","hand"]
+bodypartAs = ["arm"]
 
 
 # list of animalRalted
 # list of animal
-animals = ["cat","dog","rabbit","owl"]
-animalsY = [""]
+animals = ["cat","dog","rabbit",]
+animalAs = ["owl",]
+animalYs = [""]
 
 #list of placeRalted
 countries = [""]
 cities = [""]
 locations = [""]
-houses = ["bedroom","living room","Balcony","bathroom","kitchen"]
+houses = ["bedroom","living room","balcony","bathroom","kitchen","window","door",
+          "sink"]
 
 # list of nature
 # list of earth
-earths = ["sun","star","noon","cloud","rain","wind","mist"]
+earths = ["sun","star","noon","cloud","rain","wind","mist","moonbeam"]
 
-weathers = ["sunny","cloudy","raining","windy"]
+weathers = ["sunny","cloudy","raining","windy","flash"]
 
 # list of plant
 # list of greenery
@@ -101,6 +116,9 @@ religions = [""]
 # list of journey
 travels = ["voyage","range", "flight", "passage"]
 
+# list of food
+foods = ["bread"]
+
 
 
 
@@ -108,17 +126,55 @@ travels = ["voyage","range", "flight", "passage"]
 
 
 random.seed()
+#random nouns
 basicNoun = random.choice(basicNouns)
+basicObjective = random.choice(basicObjectives)
+basicObjectiveA = random.choice(basicObjectiveAs)
+
+allBasicObjectives =[basicObjective,basicObjectiveA]
+allBasicObjective = random.choice(allBasicObjectives)
+
+
 positiveNoun = random.choice(positiveNouns)
 negativeNoun = random.choice(negativeNouns)
+
+#random pronoun
 pronoun = random.choice(pronouns)
+pronoun1 = random.choice(pronoun1s)
+pronoun2 = random.choice(pronoun2s)
+
+
+
+#random verb
 verb = random.choice(verbs)
+positiveVerb = random.choice(positiveVerbs)
+negativeVerb = random.choice(negativeVerbs)
+
+allVerbs = [verb, positiveVerb, negativeVerb]
+allVerb = random.choice(allVerbs)
+
+verbing = random.choice(verbings)
+
+#random adjective
 adjective = random.choice(adjectives)
 positiveAdjective = random.choice(positiveAdjectives)
 negativeAdjective = random.choice(negativeAdjectives)
+
+allAdjectives = [adjective, positiveAdjective, negativeAdjective]
+allAdjective = random.choice(adjectives)
+
+#random adverb
 adverb = random.choice(adverbs)
 positiveAdverb = random.choice(positiveAdverbs)
 negativeAdverb = random.choice(negativeAdverbs)
+
+adverbss = [adverb, positiveAdverb, negativeAdverb]
+adverbs = random.choice(adverbss)
+
+#random orientationPreposition 
+orientationPreposition = random.choice(orientationPrepositions)
+prepositionNoun = random.choice(prepositionNouns)
+
 
 #random color
 warmColor = random.choice(warmColors)
@@ -135,16 +191,25 @@ day = random.choice(days)
 time = random.choice(times)
 season = random.choice(seasons)
 
+
 timeRalteds = [month, day, time]
 timeRalted = random.choice(timeRalteds)
 
 #random humanRalted
 human = random.choice(humans)
 bodypart = random.choice(bodyparts)
+bodypartA = random.choice(bodypartAs)
+
+bodypartss = [bodypart, bodypartA]
+bodyparts = random.choice(bodypartss) 
 
 #random animalRalted
 animal = random.choice(animals)
-animalY = random.choice(animalsY)
+animalA = random.choice(animalAs)
+animalY = random.choice(animalYs)
+
+animalss = [animal, animalA]
+animals = random.choice(animalss)
 
 #random placeRalted
 country = random.choice(countries)
@@ -160,6 +225,27 @@ flower = random.choice(flowers)
 outspace = random.choice(outspaces)
 religion = random.choice(religions)
 travel = random.choice(travels)
+food = random.choice(foods)
+
+
+ 
+
+#seek the whole category
+
+singleAndPlurals = ["s",""]
+singleAndPluralsY = ["ies","y"]
+singleAndPlural = random.choice(singleAndPlurals)
+singleAndPluralY = random.choice(singleAndPluralsY)
+
+
+
+subject1s = [basicNoun, basicObjective, basicObjectiveA, 
+             animal, animalA, bodypart, bodypartA,
+             house,weather]
+subject1 = random.choice(subject1s)
+
+
+
 
 
 
@@ -184,7 +270,6 @@ travel = random.choice(travels)
 #T.sayMonth('{month}'.format(month=month))
 
 
-#print("What is your felling:")
 #print("1. sad")
 #print("2. happy")
 #choice=int(input("Chose a mood:"))
@@ -253,22 +338,7 @@ travel = random.choice(travels)
 
     
    
-    
-#seek the whole category
 
-singleAndPlurals = ["s",""]
-singleAndPluralsY = ["ies","y"]
-singleAndPlural = random.choice(singleAndPlurals)
-singleAndPluralY = random.choice(singleAndPluralsY)
-
-subject1s = [basicNoun, animal, bodypart,house,weather]
-subject1 = random.choice(subject1s)
-
-
-
-
-allAdjectives = [adjective, positiveAdjective, negativeAdjective]
-allAdjective = random.choice(allAdjectives)
 
 #seek the title
 theTitles = ["title1","title2","title3","title4"]
@@ -287,8 +357,21 @@ if (theTitle == "title1"):
 elif (theTitle == "title2"):
     titleType2s = ["a","the"]
     titleType2 = random.choice(titleType2s)
-    str = "{titleType2} {subject1}".format(subject1=subject1,
-           titleType2=titleType2)
+    if (titleType2 == "a"):
+        if (subject1 == animalA):
+            str = "an {subject1}".format(subject1=subject1)
+        elif (subject1 == bodypartA):
+            str = "an {subject1}".format(subject1=subject1)
+        elif (subject1 == basicObjectiveA):
+            str = "an {subject1}".format(subject1=subject1)
+        else:
+            str = "{titleType2} {subject1}".format(subject1=subject1,
+                   titleType2=titleType2)
+    else:
+        str = "{titleType2} {subject1}".format(subject1=subject1,
+               titleType2=titleType2)
+           
+    
     
     
 elif (theTitle == "title3"):
@@ -312,38 +395,114 @@ elif (theTitle == "title4"):
 print'\n'+(str.title()) +'\n'
 
 
+
+
+
+
 # paragraph test     
-class ParagraphFormat():
+class TitleParagraphFormat():
     def form1(self):
-        str = "{month} {month}".format(month=month)
-        return(str.capitalize())
-       
+        pronoun = random.choice(pronouns)
+        str = "Will {pronoun}, when {month} {verb} {pronoun1} {weather}".format(pronoun=pronoun, 
+                    month=month, verb=verb, pronoun1=pronoun1,weather=weather)
+        return(str)
+        
     def form2(self):
-        return "{day}".format(day=day).capitalize()
+        verb = random.choice(verbs)
+        basicObjective = random.choice(basicObjectives)
+        str = "{verb} {adjective} {basicObjective} to \
+{positiveAdjective} {pronoun1} {color} {bodypart}".format(verb=verb.capitalize(), adjective=adjective,
+        basicObjective=basicObjective, positiveAdjective=positiveAdjective,
+        pronoun1=pronoun1,color=color,bodypart=bodypart)
+        return(str)
+        
+
+        
     def form3(self):
-        return "{basicNoun}".format(basicNoun=basicNoun).capitalize()
+        verb = random.choice(verbs)
+        str = "{pronoun1} {adjective} {bodypart}，will {pronoun} {verb} \
+to {positiveAdjective}".format(pronoun1=pronoun1.capitalize(), adjective=adjective, bodypart=bodypart,
+        pronoun=pronoun, verb=verb, positiveAdjective=positiveAdjective)
+        return(str)
+        
+        
     def form4(self):
-        return "{positiveNoun}".format(positiveNoun=positiveNoun).capitalize()
+        pronoun1 = random.choice(pronoun1s)
+        verb = random.choice(verbs)
+        str = "As {weather} {verb} {orientationPreposition} {pronoun1} \
+{house} {basicNoun}".format(weather=weather,
+        verb=verb,orientationPreposition=orientationPreposition,
+        pronoun1=pronoun1,house=house,basicNoun=basicNoun)
+        return(str)
+        
     def form5(self):
-        return "{negativeNoun}".format(negativeNoun=negativeNoun).capitalize()
+        pronoun1 = random.choice(pronoun1s)
+        str = "Knowing {pronoun1} {basicObjective} and {positiveNoun} both \
+are {negativeNoun}".format(pronoun1=pronoun1,basicObjective=basicObjective,
+        positiveNoun=positiveNoun,negativeNoun=negativeNoun)
+        return(str)
+        
     def form6(self):
-        str = "{time}".format(time=time)
-        return(str.capitalize())
+        basicNoun = random.choice(basicNouns)
+        verb = random.choice(verbs)
+        str = "Will {pronoun} {verb} {warmColor} out of the \
+{cheerfulColor} {basicNoun}".format(pronoun=pronoun,verb=verb,warmColor=warmColor,
+        cheerfulColor=cheerfulColor,basicNoun=basicNoun)
+        return(str)
+        
     def form7(self):
-        str = "{bodypart}".format(bodypart=bodypart)
-        return(str.capitalize())
+        pronoun = random.choice(pronouns)
+        verb = random.choice(verbs)
+        pronoun1 = random.choice(pronoun1s)
+        adjective = random.choice(adjectives)
+        str = "{pronoun} must, to {verb} {pronoun1} {adjective} \
+{time} {food}".format(pronoun=pronoun.capitalize(),verb=verb,pronoun1=pronoun1,
+        adjective=adjective,time=time,food=food)
+        return(str)
+        
     def form8(self):
-        str = "{house}".format(house=house)
-        return(str.capitalize())
+        verb = random.choice(verbs)
+        negativeAdverb = random.choice(negativeAdverbs)
+        verbing = random.choice(verbings)
+        negativeVerb = random.choice(negativeVerbs)
+        str = "{verb} a {negativeAdverb} {basicNoun} {verbing} \
+{basicObjective}, {negativeVerb}".format(verb=verb.capitalize(),
+        negativeAdverb=negativeAdverb,basicNoun=basicNoun,verbing=verbing,
+        basicObjective=basicObjective,negativeVerb=negativeVerb)
+        return(str)
+        
     def form9(self):
-        str = "{earth}".format(earth=earth)
-        return(str.capitalize())
+        allVerb = random.choice(allVerbs)
+        negativeAdjective = random.choice(negativeAdjectives)
+        str = "To {allVerb} {basicObjective} to the \
+{negativeAdjective} {basicNoun}".format(allVerb=allVerb, basicObjective=basicObjective,
+        negativeAdjective=negativeAdjective, basicNoun=basicNoun)
+        return(str)
+        
     def form10(self):
-        str = "{weather}".format(weather=weather)
-        return(str.capitalize())
+        allAdjective = random.choice(allAdjectives)
+        basicNoun = random.choice(basicNouns)
+        orientationPreposition = random.choice(orientationPrepositions)
+        positiveAdjective = random.choice(positiveAdjectives)
+        house = random.choice(houses)
+        str = "{allAdjective} {basicNoun} {orientationPreposition} \
+{positiveAdjective} {house}".format(allAdjective=allAdjective.capitalize(),
+        basicNoun=basicNoun,orientationPreposition=orientationPreposition,
+        positiveAdjective=positiveAdjective,house=house)
+        return(str)
+        
     def form11(self):
-        str = "{greenery}".format(greenery=greenery)
-        return(str.capitalize())
+        verbing = random.choice(verbings)
+        prepositionNoun = random.choice(prepositionNouns)
+        negativeAdjective =random.choice(negativeAdjectives)
+        house = random.choice(houses)
+        str = "{verbing} the {prepositionNoun} {human} in this \
+{negativeAdjective} {house}".format(verbing=verbing.capitalize(),
+        prepositionNoun=prepositionNoun,human=human,
+        negativeAdjective=negativeAdjective,
+        house=house)
+        return(str)
+        
     def form12(self):
         str = "{flower}".format(flower=flower)
         return(str.capitalize())
@@ -361,14 +520,106 @@ class ParagraphFormat():
         return(str.capitalize())
         
         
-P = ParagraphFormat()
-    
-forms = [P.form1(),P.form2(),P.form3(),P.form4(),P.form5(),P.form6(),
-         P.form7(),P.form8(),P.form9(),P.form10(),P.form11(),P.form12(),
-         P.form13(),P.form14(),P.form15(),P.form16()]
+        
+#class ParagraphFormat():
+#    def form1(self):
+#        str = "{month} {month}".format(month=month)
+#        return(str.capitalize())
+#       
+#    def form2(self):
+#        return "{day}".format(day=day).capitalize()
+#    def form3(self):
+#        return "{basicNoun}".format(basicNoun=basicNoun).capitalize()
+#    def form4(self):
+#        return "{positiveNoun}".format(positiveNoun=positiveNoun).capitalize()
+#    def form5(self):
+#        return "{negativeNoun}".format(negativeNoun=negativeNoun).capitalize()
+#    def form6(self):
+#        str = "{time}".format(time=time)
+#        return(str.capitalize())
+#    def form7(self):
+#        str = "{bodypart}".format(bodypart=bodypart)
+#        return(str.capitalize())
+#    def form8(self):
+#        str = "{house}".format(house=house)
+#        return(str.capitalize())
+#    def form9(self):
+#        str = "{earth}".format(earth=earth)
+#        return(str.capitalize())
+#    def form10(self):
+#        str = "{weather}".format(weather=weather)
+#        return(str.capitalize())
+#    def form11(self):
+#        str = "{greenery}".format(greenery=greenery)
+#        return(str.capitalize())
+#    def form12(self):
+#        str = "{flower}".format(flower=flower)
+#        return(str.capitalize())
+#    def form13(self):
+#        str = "{travel}".format(travel=travel)
+#        return(str.capitalize())
+#    def form14(self):
+#        str = "{season}".format(season=season)
+#        return(str.capitalize())
+#    def form15(self):
+#        str = "{sadColor}".format(sadColor=sadColor)
+#        return(str.capitalize())
+#    def form16(self):
+#        str = "{negativeAdverb}".format(negativeAdverb=negativeAdverb)
+#        return(str.capitalize())
+#    def form17(self):
+#        str = "{negativeAdverb}".format(negativeAdverb=negativeAdverb)
+#        return(str.capitalize())
+#    def form18(self):
+#        str = "{negativeAdverb}".format(negativeAdverb=negativeAdverb)
+#        return(str.capitalize())
+#    def form19(self):
+#        str = "{negativeAdverb}".format(negativeAdverb=negativeAdverb)
+#        return(str.capitalize())
+#    def form20(self):
+#        str = "{negativeAdverb}".format(negativeAdverb=negativeAdverb)
+#        return(str.capitalize())
+#    def form21(self):
+#        str = "{negativeAdverb}".format(negativeAdverb=negativeAdverb)
+#        return(str.capitalize())
+#    def form22(self):
+#        str = "{negativeAdverb}".format(negativeAdverb=negativeAdverb)
+#        return(str.capitalize())
+#    def form23(self):
+#        str = "{negativeAdverb}".format(negativeAdverb=negativeAdverb)
+#        return(str.capitalize())
+#    def form24(self):
+#        str = "{negativeAdverb}".format(negativeAdverb=negativeAdverb)
+#        return(str.capitalize())
+#        
+#        
+T = TitleParagraphFormat()
+#P = ParagraphFormat()
+#    
+forms1 = [T.form1(),T.form2(),T.form3(),T.form4(),T.form5(),T.form6(),
+         T.form7(),T.form8(),T.form9(),T.form10(),T.form11(),T.form12(),
+         T.form13(),T.form14(),T.form15(),T.form16()]
+#
+#forms2 = [P.form1(),P.form2(),P.form3(),P.form4(),P.form5(),P.form6(),
+#         P.form7(),P.form8(),P.form9(),P.form10(),P.form11(),P.form12(),
+#         P.form13(),P.form14(),P.form15(),P.form16(),P.form17(),P.form18(),
+#         P.form19(),P.form20(),P.form21(),P.form22(),P.form23(),P.form24()]
+#
+#
+#resultList1 = random.sample(forms1,7)
+#resultList2 = random.sample(forms2,20)
+#
+#resultLists = []
+#resultLists.extend(resultList1)
+#resultLists.extend(resultList2)
+#
+#
+#slice = random.sample(resultLists,14)
 
-slice = random.sample(forms,14)
+slice = random.sample(forms1,14)
 random.shuffle(slice)
+
+
 
 i = 0
 print 
@@ -392,6 +643,9 @@ for slice in slice:
         space = '\n'*0
         
     print (slice) + space    
+
+
+
 
 #random.shuffle(forms)
 #print 
