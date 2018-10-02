@@ -11,6 +11,7 @@ import random
 
 # list of nouns
 basicNouns = ["muse","monk","vampire","jewels","log","crowd"]
+adjNouns = ["simplicity"]
 basicObjectives = ["log","glass","vaults","censer"]
 basicObjectiveAs = ["altar","amusement"]
 positiveNouns = ["birth"]
@@ -22,6 +23,7 @@ pronoun2s = ["me","us","them","you","him","she","it"]
 
 # list of verbs
 verbs = ["love","fling","flash","slip","glean","chant"]
+positiveVerbs = ["love"]
 negativeVerbs = ["slip"]
 
 verbings = ["swing"]
@@ -128,6 +130,7 @@ foods = ["bread"]
 random.seed()
 #random nouns
 basicNoun = random.choice(basicNouns)
+adjNoun = random.choice(adjNouns)
 basicObjective = random.choice(basicObjectives)
 basicObjectiveA = random.choice(basicObjectiveAs)
 
@@ -200,16 +203,16 @@ human = random.choice(humans)
 bodypart = random.choice(bodyparts)
 bodypartA = random.choice(bodypartAs)
 
-bodypartss = [bodypart, bodypartA]
-bodyparts = random.choice(bodypartss) 
+allBodyparts = [bodypart, bodypartA]
+allBodypart = random.choice(allBodyparts) 
 
 #random animalRalted
 animal = random.choice(animals)
 animalA = random.choice(animalAs)
 animalY = random.choice(animalYs)
 
-animalss = [animal, animalA]
-animals = random.choice(animalss)
+allAnimals = [animal, animalA]
+allAnimal = random.choice(allAnimals)
 
 #random placeRalted
 country = random.choice(countries)
@@ -504,20 +507,50 @@ are {negativeNoun}".format(pronoun1=pronoun1,basicObjective=basicObjective,
         return(str)
         
     def form12(self):
-        str = "{flower}".format(flower=flower)
-        return(str.capitalize())
+        verbing = random.choice(verbings)
+        basicNoun = random.choice(basicNouns)
+        pronoun1 = random.choice(pronoun1s)
+        house = random.choice(houses)
+        str = "{verbing} the {basicNoun} as \
+{pronoun1} {house}".format(verbing=verbing.capitalize(),basicNoun=basicNoun,
+        pronoun1=pronoun1,house=house)
+        return(str)
+        
     def form13(self):
-        str = "{travel}".format(travel=travel)
-        return(str.capitalize())
+        positiveVerb = random.choice(positiveVerbs)
+        negativeNoun = random.choice(negativeNouns)
+        adjNoun = random.choice(adjNouns)
+        str = "{positiveVerb} {negativeNoun}, in \
+all {adjNoun}".format(positiveVerb=positiveVerb.capitalize(), 
+        negativeNoun=negativeNoun,adjNoun=adjNoun)
+        return(str)
+        
     def form14(self):
-        str = "{season}".format(season=season)
-        return(str.capitalize())
+        negativeAdjective = random.choice(negativeAdjectives)
+        verb = random.choice(verbs)
+        str = "O {negativeAdjective} {basicNoun}! \
+Oh, when may I {verb}".format(negativeAdjective=negativeAdjective,
+        basicNoun=basicNoun, verb=verb)
+        return(str)
+        
     def form15(self):
-        str = "{sadColor}".format(sadColor=sadColor)
-        return(str.capitalize())
+        verbing = random.choice(verbings)
+        basicObjective = random.choice(basicObjectives)
+        basicNoun = random.choice(basicNouns)
+        str = "This {verbing} {basicObjective} \
+of {basicNoun}".format(verbing=verbing.capitalize(),
+                    basicObjective=basicObjective, basicNoun=basicNoun)
+        return(str)
+        
     def form16(self):
-        str = "{negativeAdverb}".format(negativeAdverb=negativeAdverb)
-        return(str.capitalize())
+        verb = random.choice(verbs)
+        allBodypart = random.choice(allBodyparts)
+        bodypartA = random.choice(bodypartAs)
+        adjNoun = random.choice(adjNouns)
+        str = "To {verb} of my {allBodypart}, my \
+        {bodypartA}'s {adjNoun}".format(verb=verb,allBodypart=allBodypart,
+        bodypartA=bodypartA, adjNoun=adjNoun)
+        return(str)
         
         
         
