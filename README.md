@@ -87,9 +87,33 @@ Sample 2:
     To slip glass to the slothful crowd
     
     Warming the monk as his wall
-    Will she slip  out of the azure crowd
+    Will she slip out of the azure crowd
     Fling spiritual vaults to steadfast her green head
     
     Her spiritual head，will she flash to steadfast
     Will he, when January chant her flash
     Love death, in all simplicity
+    
+    
+Sample 3:
+
+    The Misty Log
+    
+     
+    Will they assign red out of the azure monastery
+    As raining slip below our bedroom log
+    This living censer of monastery
+    Labour a venal log warming censer, slip
+
+    Knowing his censer and birth both are poison
+    To ennoble censer to the venal log
+    To slip of my neck, my arm's simplicity
+    O slothful log! Oh, when may I chant
+
+    Fling meager log to gold his azure neck
+    Meager log down warm kitchen
+    Living the inner child in this venal door
+
+    Love poison, in all delight
+    His meager neck，will they love to gold
+    Will you, when October flash his raining
