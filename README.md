@@ -117,3 +117,27 @@ Sample 3:
     Love poison, in all delight
     His meager neck，will they love to gold
     Will you, when October flash his raining
+    
+    
+Sample 4:
+
+    Cat And Owl
+    
+    
+    Venal monk over steadfast hall
+    Will she, when October love our raining
+    Love poison, in all simplicity
+    Living the muse as my window
+    
+    To love log to the venal jewels
+    To flash of my wrist, my eye's simplicity
+    This living glass of crowd
+    Knowing her log and birth both are poison
+    
+    Swing the inner men in this slothful studio
+    O venal jewels! Oh, when may I love
+    As raining slip outside our kitchen jewels
+
+    Will we glean red out of the azure misery
+    Flash a sick jewels warming log, fall
+    Our spiritual wrist，will we slip to warm
