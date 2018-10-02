@@ -83,7 +83,7 @@ Sample 2:
     
     Glean a sick crowd warming glass, slip
     To chant of my head, my arm's delight
-    This Swing vaults of crowd
+    This swing vaults of crowd
     To slip glass to the slothful crowd
     
     Warming the monk as his wall
