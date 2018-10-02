@@ -51,6 +51,7 @@ October 2nd, 2018, first step poety sample:
 >The Spiritual Eye
 >
 >
+
 >To fling of my shoulders, my eye's delight
 >
 >To love spectacle to the slothful muse
@@ -60,6 +61,7 @@ October 2nd, 2018, first step poety sample:
 >His vulgar shoulders，will she chant to warm
 >
 >
+
 >This Warming log of log
 >
 >As windy chant under your studio muse
@@ -69,6 +71,7 @@ October 2nd, 2018, first step poety sample:
 >Love a venal muse warming spectacle, slip
 >
 >
+
 >Ennoble poison, in all simplicity
 >
 >Chant vulgar spectacle to warm his azure shoulders
@@ -76,6 +79,7 @@ October 2nd, 2018, first step poety sample:
 >Will he, when April assign his windy
 >
 >
+
 >He must, to fling his vulgar noon bread
 >
 >Knowing my spectacle and birth both are poison
