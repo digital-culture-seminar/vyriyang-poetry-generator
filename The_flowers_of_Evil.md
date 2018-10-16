@@ -1,18 +1,35 @@
-## A Vulgar Altar
-To love censer to the slothful studio
-Love a sick studio living censer, slip
-To flash of my eye, my eye's simplicity
-His meager wrist，will he love to warm
+## An Amusement
+Will he, when May labour their windy
 
-Living the inner children in this venal window
-Chant meager glass to warm his purple wrist
-Meager muse on warm wall
-Love poison, in all simplicity
+I must, to flash your meager morning bread
 
-O slothful studio! Oh, when may I slip
-Taking the crowd as their wall
-As cloudy flash under her graveyard studio
+Assign a venal log living vaults, slip
 
-She must, to labour her misty twilight bread
-Will we, when February slip his cloudy
-Will he assign purple out of the azure graveyard
+Swing the monastery as her bedroom
+
+
+
+Praise stupefaction, in all delight
+
+This living spectacle of jewels
+
+To love vaults to the mud-soaked log
+
+Their spiritual neck，will you slip to gold
+
+
+
+Warming the inner child in this slothful door
+
+As windy love outside our studio log
+
+O slothful log! Oh, when may I glean
+
+
+
+Venal crowd up gold wall
+
+Love spiritual vaults to gold their blue neck
+
+Knowing our vaults and birth both are stupefaction
+
