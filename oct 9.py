@@ -35,6 +35,8 @@ Created on Tue Oct  9 18:08:13 2018
         
         
 
+
+
 from playsound import playsound
 from gtts import gTTS
 
