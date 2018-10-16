@@ -1,35 +1,35 @@
-## An Amusement
-Will he, when May labour their windy
+## Sunny And Arms
+    As sunny labour down her graveyard jewels
 
-I must, to flash your meager morning bread
+    O mud-soaked jewels! Oh, when may I glean
 
-Assign a venal log living vaults, slip
+    Labour a venal jewels warming glass, fall
 
-Swing the monastery as her bedroom
-
-
-
-Praise stupefaction, in all delight
-
-This living spectacle of jewels
-
-To love vaults to the mud-soaked log
-
-Their spiritual neck，will you slip to gold
+    Will he flash purple out of the azure crowd
 
 
 
-Warming the inner child in this slothful door
+    Spiritual jewels over steadfast living room
 
-As windy love outside our studio log
+    His spiritual neck，will he love to gold
 
-O slothful log! Oh, when may I glean
+    This swing glass of monk
+
+    Love spiritual censer to gold his gray neck
 
 
 
-Venal crowd up gold wall
+    You must, to labour your vulgar breaking dawn bread
 
-Love spiritual vaults to gold their blue neck
+    To assign glass to the slothful jewels
 
-Knowing our vaults and birth both are stupefaction
+    Swing the log as your balcony
+
+
+
+    Will she, when July assign his sunny
+
+    To slip of my neck, my eye's delight
+
+    Ennoble stupefaction, in all delight
 
