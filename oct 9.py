@@ -23,15 +23,24 @@ Created on Tue Oct  9 18:08:13 2018
 #        f.write(poem)
 #        f.write("\n")
 
-mylist = []
-for i in range(0,7):
-    mylist.append( "hello world" + str(i))
-#    print mylist
-#    print mylist[i]
-with open("poem.md","w") as f:
-    for item in mylist:
-        f.write(item)
-        f.write("\n")
+#mylist = []
+#for i in range(0,7):
+#    mylist.append( "hello world" + str(i))
+##    print mylist
+##    print mylist[i]
+#with open("poem.md","w") as f:
+#    for item in mylist:
+#        f.write(item)
+#        f.write("\n")
+        
+        
+
+from playsound import playsound
+from gtts import gTTS
+
+tts = gTTS(text="hello-world",lang="en")
+tts.save("hello-world.mp3")
+#playsound("hello-world.mp3")
         
     
     
