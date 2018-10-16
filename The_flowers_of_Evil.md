@@ -1,15 +1,18 @@
-## Censer
-To labour of my eye, my arm's delight
-Swing the muse as my hall
-Chant meager vaults to steadfast his azure shoulders
-Will he, when January glean his windy
-This taking censer of monk
-Love a bored monk warming censer, slip
-His meager shoulders，will I glean to steadfast
-Ennoble death, in all simplicity
-O slothful monk! Oh, when may I labour
-As windy fling on its bathroom monk
-Knowing our censer and birth both are poison
-Will I chant red out of the azure jewels
-To slip censer to the slothful monk
-We must, to glean its vulgar midhignt bread
+## A Vulgar Altar
+To love censer to the slothful studio
+Love a sick studio living censer, slip
+To flash of my eye, my eye's simplicity
+His meager wrist，will he love to warm
+
+Living the inner children in this venal window
+Chant meager glass to warm his purple wrist
+Meager muse on warm wall
+Love poison, in all simplicity
+
+O slothful studio! Oh, when may I slip
+Taking the crowd as their wall
+As cloudy flash under her graveyard studio
+
+She must, to labour her misty twilight bread
+Will we, when February slip his cloudy
+Will he assign purple out of the azure graveyard

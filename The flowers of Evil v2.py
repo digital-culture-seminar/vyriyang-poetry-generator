@@ -529,7 +529,24 @@ with open("The_flowers_of_Evil.md","w") as f:
 #            space = "\n"*0
 #        if (i==14):
 #            space = "\n"*0
-        space = "\n"
+#        space = "\n"
+        i = i + 1
+        if (i<4):
+            space = "\n"*1
+        if (i==4):
+            space = "\n"*2
+        if (4<i<8):
+            space = "\n"*1
+        if (i==8):
+            space = "\n"*2
+        if (8<i<11):
+            space = "\n"*1
+        if (i==11):
+            space = "\n"*2
+        if (11<i<14):
+            space = "\n"*1
+        if (i==14):
+            space = "\n"*1
             
         poem = (sentence) + space
             
