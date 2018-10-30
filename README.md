@@ -144,6 +144,8 @@ Sample 4:
     
   
 October 29th, 2018, poety sample:
+
+Sample 1:
     
     Owl
 
@@ -163,5 +165,27 @@ October 29th, 2018, poety sample:
     That has been steeped in rain and bedroom
 
     O misty wintertime, vampire of all his praise
-    Springtime's last days, August and venal midnignt
+    Springtime's last days, August and venal midnight
     Outside a weakening wall, steeped with the poison
+    
+    
+Sample 2:
+    
+    Cat And Shoulders
+    That has been said in frost and window
+    Our log, though, is cracked; when as he can
+    Chant from her log gold graveyard of enveloping noon
+    How vulgar it is on summer noon
+
+    Blankest and funereal despite its queen
+    Swing the inner womem in this venal pool
+    My old shoulders, will they glean to steadfast
+    Nothing is praise to the venal face
+
+    Springtime's last days, August and funereal twilight
+    Around the misty fire's queen of bed
+    Your monastery, more than in summer's dignified rain
+
+    Alert in bed to chant my shroud to ennoble
+    Where through the midnight the spirit is growing daring 
+    I love the stupefaction that he slips
