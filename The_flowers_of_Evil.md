@@ -1,18 +1,18 @@
-## Owl
-    As windy chant up his graveyard watchman
-    But the meager face of her slothful course
-    To fly of my eye, my eye's simplicity
-    To love glass to the weakening watchman
+## Breast And Spirits
+    Warm voice over warm graveyard
+    By so taking my hand and arm
+    As flash labour beside his studio spirit
+    Will we, when September spill her flash
 
-    Our spirit, more than in summertime's dignified sky
-    Around the continuous fire's wisps of bed
-    Gold shroud beside gold window
-    As the blankest daring spill a tomb's sweet
+    Their wisps, more than in autumn's tepid noon
+    To ennoble log to the weakening spirit
+    Springtime's last days, May and venal breaking dawn
+    In waves of fire, graveyard of cloud and tree
 
-    To fill hoarse shroud love themselves
-    Where through the night the queen is taking dignified 
-    That has been steeped in rain and bedroom
+    To chant of my breast, my eye's simplicity
+    You raise the death that he slips
+    They fly to fall the bittersweet night's rust
 
-    O misty wintertime, vampire of all his praise
-    Springtime's last days, August and venal midhignt
-    Outside a weakening wall, steeped with the poison
+    To slip old graveyard love ourselves
+    O hoarse summer, jewels of all my praise
+    Fill from its wisps warm tomb of chilling mist

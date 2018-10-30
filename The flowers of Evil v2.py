@@ -89,7 +89,7 @@ days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday",
         "Saturday", "Sunday"]
 
 times = ["breaking dawn","twilight","morning","noon","afternoon",
-         "evening","night","midhignt"]
+         "evening","night","midnignt"]
 
 seasons = ["spring","summer","autumn","winter","springtime","summertime",
            "autumntime","wintertime","season"]
