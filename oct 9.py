@@ -40,10 +40,15 @@ Created on Tue Oct  9 18:08:13 2018
 from playsound import playsound
 from gtts import gTTS
 
-tts = gTTS(text="hello-world",lang="en")
-tts.save("hello-world.mp3")
+#tts = gTTS(text="hello-world",lang="en")
+#tts.save("hello-world.mp3")
 #playsound("hello-world.mp3")
-        
+
+with open("The_flowers_of_Evil.md") as f:
+    text = f.read()
+    
+    print text
+#tts = gTTS("The_flowers_of_Evil.md",lang="en")
     
     
     

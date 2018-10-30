@@ -1,18 +1,18 @@
-## The Rabbit
-    To love of my eye, my arm's delight
-    Will he, when January labour her raining
-    Warm jewels over gold wall
-    Will you assign purple out of the azure log
+## The Continuous Altar
+    Fill a sick watchman taking glass, slip
+    We labour to chill the flickering night's grief
+    How dignified it is on winter night
+    Labour alert spectacle to warm my gray belly
 
-    O slothful monk! Oh, when may I glean
-    Living the monk as my door
-    Labour a venal monk living vaults, fall
-    Knowing our vaults and birth both are stupefaction
+    As the daring tomb spill a tomb's praise
+    In this steadfast jewels where the chill sun course
+    Knowing my glass and birth both are poison
+    Who u flash religion's waves
 
-    This taking censer of muse
-    Taking the outer womem in this venal bedroom
-    To labour vaults to the venal monk
+    Her rust, more than in season's chill star
+    Around the vulgar vapours's spirit of desk
+    His flatness, though, is steeped; when as he can
 
-    As raining labour under her studio monk
-    Her misty head，will you chant to warm
-    Fling misty censer to warm her blue head
+    To flash misty soldier praise ourselves
+    They ennoble the stupefaction that he falls
+    Under a weakening door, steeped with the poison
