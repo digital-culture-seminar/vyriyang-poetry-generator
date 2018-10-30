@@ -1,19 +1,19 @@
-The Continuous Altar
+Owl
 
-Fill a sick watchman taking glass, slip
-We labour to chill the flickering night's grief
-How dignified it is on winter night
-Labour alert spectacle to warm my gray belly
+As windy chant up his graveyard watchman
+But the meager face of her slothful course
+To fly of my eye, my eye's simplicity
+To love glass to the weakening watchman
 
-As the daring tomb spill a tomb's praise
-In this steadfast jewels where the chill sun course
-Knowing my glass and birth both are poison
-Who u flash religion's waves
+Our spirit, more than in summertime's dignified sky
+Around the continuous fire's wisps of bed
+Gold shroud beside gold window
+As the blankest daring spill a tomb's sweet
 
-Her rust, more than in season's chill star
-Around the vulgar vapours's spirit of desk
-His flatness, though, is steeped; when as he can
+To fill hoarse shroud love themselves
+Where through the night the queen is taking dignified 
+That has been steeped in rain and bedroom
 
-To flash misty soldier praise ourselves
-They ennoble the stupefaction that he falls
-Under a weakening door, steeped with the poison
+O misty wintertime, vampire of all his praise
+Springtime's last days, August and venal midhignt
+Outside a weakening wall, steeped with the poison
