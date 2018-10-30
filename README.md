@@ -163,5 +163,5 @@ October 29th, 2018, poety sample:
     That has been steeped in rain and bedroom
 
     O misty wintertime, vampire of all his praise
-    Springtime's last days, August and venal midhignt
+    Springtime's last days, August and venal midnignt
     Outside a weakening wall, steeped with the poison
