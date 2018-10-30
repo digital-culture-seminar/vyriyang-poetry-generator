@@ -108,7 +108,7 @@ bodypartAs = ["arm","eye"]
 # list of animalRalted
 # list of animal
 animals = ["cat","monkey","dog","rabbit","raven"]
-animalAs = ["owl",]
+animalAs = ["owl"]
 animalYs = [""]
 
 #list of placeRalted
