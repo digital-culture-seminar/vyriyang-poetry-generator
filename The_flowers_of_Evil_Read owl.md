@@ -15,5 +15,5 @@ Where through the night the queen is taking dignified
 That has been steeped in rain and bedroom
 
 O misty wintertime, vampire of all his praise
-Springtime's last days, August and venal midnignt
+Springtime's last days, August and venal midnight
 Outside a weakening wall, steeped with the poison
